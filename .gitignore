@@ -90,3 +90,6 @@ Thumbs.db
 
 # Windows
 Desktop.ini
+
+#FMOD
+Plugins/FMODStudio/Binaries/*
